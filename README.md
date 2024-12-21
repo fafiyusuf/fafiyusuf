@@ -1,16 +1,29 @@
-## Hi there 👋
+# Welcome to My GitHub 👋  
 
-<!--
-**fafiyusuf/fafiyusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! Here's a quick intro about me: my name is Fetiya Yusuf
 
-Here are some ideas to get you started:
+### About Me
+- 🖥️ Computer Science student who loves coding and problem-solving.
+- 🔭 Currently exploring **OpenGL Graphics Projects** and building a **Travel Buddy Finder App**.
+- 🌱 Learning **Web Development** and practicing **competitive programming**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Goals
+- Succeed in upcoming **coding interviews**.
+- Finish my **Udemy web development courses**.
+- Collaborate on exciting projects and contribute to open source.
+
+### Tech Skills
+- **Languages:** Java, Python, C++, HTML, CSS, JavaScript
+- **Tools:** Dev C++, Android Studio, MySQL, VS Code
+- **Skills:** Problem-solving, Project Management, Digital Literacy
+
+### Contact Me
+- 🌐 [Portfolio](https://fafiyusuf.github.io/personal-portifolio/)
+- 📧 [Email](mailto:fafiyusuf123456@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/fetiya-yusuf/)
+
+### Fun Facts
+- Inspired by **cats** and the color **brown** in design.
+- Balancing academics, faith, and creativity. 🌙
+
+Let’s connect and create amazing things together! 🚀
