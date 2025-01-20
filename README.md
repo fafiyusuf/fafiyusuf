@@ -5,6 +5,7 @@ I'm Fetiya, a **Computer Science student** passionate about **coding**, **proble
 ### Currently:
 - 🖥️ Working on full stack development bootcamp at csec astu  
 - 🌱 Learning **Web Development** & practicing **competitive programming**
+-learning new skills 
 
 
 ### Fun Fact:
