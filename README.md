@@ -8,4 +8,3 @@ I'm Fetiya, a **Computer Science student** passionate about **coding**, **proble
 -learning new skills 
 -practicing web designs on figma
 
--portifolio :- https://fafiyusuf.github.io/personal-portifolio/
