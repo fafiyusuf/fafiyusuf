@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I love cats and the stars**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me ;):</h3>
 <p align="left">
 <a href="https://www.leetcode.com/https://leetcode.com/u/fafiyusuf124/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/fafiyusuf124/" height="30" width="40" /></a>
 </p>
