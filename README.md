@@ -18,7 +18,7 @@
 ### 💡 About Me
 
 - 🌱 I’m currently learning How to build Agentic AI
-- 📫 Reach me at: **fafiyusuf123456@gmail.com**
+- 📫 Reach me at: **fetiyaintech@gmail.com**
 - 📄 [My Resume](https://drive.google.com/file/d/19JHAcUw2egkzL2L3jdFivTLINJ_CA2J5/view?usp=drive_link)
 - ⚡ Fun fact: **I love cats 🐱 and the stars ✨**
 
