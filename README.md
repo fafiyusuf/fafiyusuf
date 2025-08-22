@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning How to build Agentic AI
 - 📫 Reach me at: **fetiyaintech@gmail.com**
-- 📄 [My Resume](https://drive.google.com/file/d/19JHAcUw2egkzL2L3jdFivTLINJ_CA2J5/view?usp=drive_link)
+- 📄 [My Resume](https://drive.google.com/file/d/1OKcmt5hHyZ-9rVHYJTO7XLUbfHXI7TZQ/view)
 - ⚡ Fun fact: **I love cats 🐱 and the stars ✨**
 
 ---
