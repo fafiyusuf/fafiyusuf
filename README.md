@@ -5,8 +5,6 @@
 <h1 align="center">Hi 👋, I'm Fetiya Yusuf</h1>
 <h3 align="center">🌍 A passionate Full Stack Developer from Ethiopia 🇪🇹</h3>
 
-<!-- Coding GIF -->
-
 
 <!-- Views Counter -->
 <p align="left">
