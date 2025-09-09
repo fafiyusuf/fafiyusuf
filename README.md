@@ -21,7 +21,7 @@
 
 ---
 
-### 🌐 Co
+### 🌐 Connect with me
 
 <p align="left">
   <a href="https://leetcode.com/u/fafiyusuf124/" target="_blank">
