@@ -8,9 +8,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=fafiyusuf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
 ### 💡 About Me
-
 - 🌱 I’m currently learning How to build Agentic AI
 - 📫 Reach me at: **fetiyaintech@gmail.com**
 - 📄 [My Resume](https://drive.google.com/file/d/1OKcmt5hHyZ-9rVHYJTO7XLUbfHXI7TZQ/view)
