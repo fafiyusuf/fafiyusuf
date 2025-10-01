@@ -1,6 +1,7 @@
 
 <p align="center">
   <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/49e5716eade46e97656d5d6427b11340-1684516178/ANIMATE1_V2/can-make-gif-animated-in-the-form-of-pixel-art.gif" alt="Coding" width="250" />
+  
 </p>
 <h1 align="center">Hi 👋, I'm Fetiya Yusuf</h1>
 <h3 align="center">🌍 A passionate Full Stack Developer from Ethiopia</h3>
@@ -8,6 +9,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=fafiyusuf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
 ### 💡 About Me
 - 🌱 I’m currently learning How to build Agentic AI
 - 📫 Reach me at: **fetiyaintech@gmail.com**
