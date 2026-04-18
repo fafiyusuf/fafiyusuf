@@ -1,68 +1,146 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fetiya%20Yusuf&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+</div>
 
-<p align="center">
-  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/49e5716eade46e97656d5d6427b11340-1684516178/ANIMATE1_V2/can-make-gif-animated-in-the-form-of-pixel-art.gif" alt="Coding" width="250" />
-  
-</p>
-<h1 align="center">Hi 👋, I'm Fetiya Yusuf</h1>
-<h3 align="center">🌍A passionate Full Stack Developer from Ethiopia</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Agentic+AI+%F0%9F%A4%96;Open+Source+Enthusiast+%F0%9F%92%9A;Cat+Lover+%F0%9F%90%B1+%26+Stargazer+%E2%AD%90" alt="Typing SVG" />
+</div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=fafiyusuf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-### 💡 About Me
-- 🌱 I’m currently learning How to build Agentic AI
-- 📫 Reach me at: **fetiyaintech@gmail.com**
-- 📄 [My Resume](https://drive.google.com/file/d/1OKcmt5hHyZ-9rVHYJTO7XLUbfHXI7TZQ/view)
-- ⚡ Fun fact: **I love cats 🐱 and the stars**
-
----
-
-### 🌐 Connect with me
-
-<p align="left">
-  <a href="https://leetcode.com/u/fafiyusuf124/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+<div align="center">
+  <a href="https://leetcode.com/u/fafiyusuf124/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
+  <a href="mailto:fetiyaintech@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1OKcmt5hHyZ-9rVHYJTO7XLUbfHXI7TZQ/view">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=fafiyusuf&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
+
+---
+
+## 🌟 About Me
+
+```typescript
+const fetiya = {
+    location: "Addis Ababa, Ethiopia 🇪🇹",
+    currentFocus: "Building Agentic AI Systems",
+    learning: ["LangChain", "AI Agents", "Advanced RAG"],
+    interests: ["Full Stack Development", "AI/ML", "Open Source"],
+    funFacts: ["Cat enthusiast 🐱", "Amateur astronomer ⭐"],
+    askMeAbout: ["Web Dev", "AI", "System Design", "TypeScript"],
+    reachMe: "fetiyaintech@gmail.com"
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,python,javascript,html,css" />
 </p>
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,figma" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
+</p>
+
+### Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,docker,git,postman" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fafiyusuf&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fafiyusuf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fafiyusuf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8"/>
+</div>
 
-### 🔥 Contribution Streak
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=fafiyusuf&theme=tokyonight&hide_border=true&background=0d1117&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=fafiyusuf&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fafiyusuf&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=3B82F6&line=F59E0B&point=FFFFFF" alt="Contribution Graph" />
+</div>
 
-### 🏆 Top Languages
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fafiyusuf&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fafiyusuf&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+</div>
+
+---
+
+## 💼 Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fafiyusuf&repo=YOUR_BEST_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/fafiyusuf/YOUR_BEST_REPO_1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fafiyusuf&repo=YOUR_BEST_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/fafiyusuf/YOUR_BEST_REPO_2)
+
+</div>
+
+---
+
+## 📈 Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+> 💡 **Tip:** To enable this, set up the [WakaTime GitHub Action](https://github.com/athul/waka-readme)
+
+---
+
+## 🎯 Current Goals for 2026
+
+- 🤖 Master Agentic AI and LangChain
+- 🌟 Contribute to major open source projects
+- 📚 Build and deploy 5+ production-ready AI applications
+- 🎓 Share knowledge through technical writing
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fafiyusuf/fafiyusuf/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fafiyusuf/fafiyusuf/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fafiyusuf/fafiyusuf/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+> 💡 **Tip:** To enable the snake, set up the [Contribution Snake GitHub Action](https://github.com/Platane/snk)
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  
+  ### ⭐ Show some love by starring repositories you find interesting!
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=6B7280&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%E2%9C%A8;Let's+connect+and+build+something+amazing!+%F0%9F%9A%80" alt="Footer" />
+</div>
